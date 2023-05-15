@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://diegomrb.github.iu/Portfolio-DiegoRivero",
+  "homepage": "http://diegomrb.github.io/Portfolio-DiegoRivero",
   "dependencies": {
     "@loomhq/loom-embed": "^1.5.0",
     "bootstrap": "^5.2.3",
