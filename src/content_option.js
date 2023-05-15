@@ -11,7 +11,7 @@ const introdata = {
         second: "Creador digital",
         third: "Desarrollador",
     },
-    description: "Soy un Diseñador Digital. Apasionado del diseño y la fotografía. Trabajo como freelancer en ambas áreas y gestiono redes sociales de empresas.",
+    description: "Soy Diseñador Digital. Apasionado del diseño y la fotografía. Trabajo como freelancer en ambas áreas y gestiono redes sociales de empresas.",
 };
 
 const dataabout = {
@@ -88,7 +88,7 @@ const dataportfolio = [
         captura1: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b6ea87170029075.64619cce3dd2d.png",
         captura2: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/791327170029075.64619cce3f181.png",
         captura3: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dab50a170029075.64619cce3e759.png",
-        linkExterno: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/84ebfb170029075.6456fa09a4c58.jpg",
+        linkExterno: "https://diegomrb.github.io/tfrita-recetas/",
     },
     {
         name: "MovieList",
@@ -113,7 +113,7 @@ const dataportfolio = [
         captura1: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/40ab0d170029075.64616c37491db.png",
         captura2: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4bb587170029075.64616c374accc.png",
         captura3: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/3e354d170029075.64616c3749f4d.png",
-        linkExterno: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/84ebfb170029075.6456fa09a4c58.jpg",
+        linkExterno: "https://diegomrb.github.io/ClimaTuristico/",
     },
 
     {
@@ -126,7 +126,7 @@ const dataportfolio = [
         captura1: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f7222c170029075.646179f40d0ce.png",
         captura2: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fbbb82170029075.646179f40dd3d.jpg",
         captura3: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/366d02170029075.646179f40e86a.jpg",
-        linkExterno: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/84ebfb170029075.6456fa09a4c58.jpg",
+        linkExterno: "https://diegomrb.github.io/PapeleriaApp/",
     },
     {
         name: "Museo Soles",
@@ -138,7 +138,7 @@ const dataportfolio = [
         captura1: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b7f1db170029075.64617eef6a19a.png",
         captura2: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/242539170029075.64617f6049060.png",
         captura3: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6310aa170029075.64617eef694c4.png",
-        linkExterno: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/84ebfb170029075.6456fa09a4c58.jpg",
+        linkExterno: "https://diegomrb.github.io/MuseoSoles/",
     },
    
     {
