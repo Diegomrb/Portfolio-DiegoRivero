@@ -91,6 +91,18 @@ const dataportfolio = [
         linkExterno: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/84ebfb170029075.6456fa09a4c58.jpg",
     },
     {
+        name: "MovieList",
+        img: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/93e4de170029075.6461540b5e414.jpg",
+        description: "Listado de peliculas y series en para mirar.",
+        descripcionAmpliacion: "La idea de esta app viene de que personalmente tengo como recordatorio muchas películas y series que quiero ver en las notas de mi celular. Porqué no tener una app dedicada con funcionalidades especiales y que faciliten esa acción de agregar películas y series, su categoría, algún comentario o demás detalles de la serie o película en mi lista.",
+        loomVideo: "https://www.loom.com/embed/c3b6dc5f0be5470f8a44890323a3972c",
+        imgbig: "#",
+        captura1: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/8dbce8170029075.64617949d5858.jpg",
+        captura2: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/14a0df170029075.64617949d3c4c.jpg",
+        captura3: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/8889c0170029075.64617949d4a16.jpg",
+        linkExterno: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/84ebfb170029075.6456fa09a4c58.jpg",
+    },
+    {
     
         name: "Clima Turístico",
         img: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fb1e66170029075.6461540b5f06b.jpg",
@@ -103,18 +115,7 @@ const dataportfolio = [
         captura3: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/3e354d170029075.64616c3749f4d.png",
         linkExterno: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/84ebfb170029075.6456fa09a4c58.jpg",
     },
-    {
-        name: "MovieList",
-        img: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/93e4de170029075.6461540b5e414.jpg",
-        description: "Listado de peliculas y series en para mirar.",
-        descripcionAmpliacion: "La idea de esta app viene de que personalmente tengo como recordatorio muchas películas y series que quiero ver en las notas de mi celular. Porqué no tener una app dedicada con funcionalidades especiales y que faciliten esa acción de agregar películas y series, su categoría, algún comentario o demás detalles de la serie o película en mi lista.",
-        loomVideo: "https://www.loom.com/embed/c3b6dc5f0be5470f8a44890323a3972c",
-        imgbig: "#",
-        captura1: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/8dbce8170029075.64617949d5858.jpg",
-        captura2: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/14a0df170029075.64617949d3c4c.jpg",
-        captura3: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/8889c0170029075.64617949d4a16.jpg",
-        linkExterno: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/84ebfb170029075.6456fa09a4c58.jpg",
-    },
+
     {
         name: "PapeleríaApp",
         img: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5b0c66170029075.6461540b64768.jpg",
