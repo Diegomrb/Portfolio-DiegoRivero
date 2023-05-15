@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio-DiegoRivero/static/css/main.23022b8a.css",
-    "main.js": "/Portfolio-DiegoRivero/static/js/main.41f29a8d.js",
+    "main.js": "/Portfolio-DiegoRivero/static/js/main.d18fd248.js",
     "index.html": "/Portfolio-DiegoRivero/index.html"
   },
   "entrypoints": [
     "static/css/main.23022b8a.css",
-    "static/js/main.41f29a8d.js"
+    "static/js/main.d18fd248.js"
   ]
 }
