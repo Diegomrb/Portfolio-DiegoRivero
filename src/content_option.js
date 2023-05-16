@@ -151,7 +151,7 @@ const dataportfolio = [
         name: "TeroSol",
         img: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/8f06e6170029075.6456fa0999588.jpg",
         description: "El tero mirando el atardecer.",
-        descripcionAmpliacion: "Durante la pandemia lo que más solia hacer era ir al campo a sacar fotos con un amigo también apasionado por la fotografía, viviendo en Melo, Cerro Largo, es solo cuestión de hacer algunos km por cualquier ruta y lo que más predomina es el campo, este día fio cerca del Paso Taborda. Los invito a ver más fotos de ese día.",
+        descripcionAmpliacion: "Durante la pandemia lo que más solia hacer era ir al campo a sacar fotos con un amigo también apasionado por la fotografía, viviendo en Melo, Cerro Largo, es solo cuestión de hacer algunos km por cualquier ruta y lo que más predomina es el campo, este día fuí cerca del Paso Taborda. Los invito a ver más fotos de ese día.",
         loomVideo: "https://www.loom.com/embed/83df9b80f30a42db97f70fdde11df8fd",
         captura1: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/55a178170029075.646189870aa0f.jpg",
         captura2: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/0813dc170029075.6461898709c19.jpg",
