@@ -16,7 +16,7 @@ const introdata = {
 
 const dataabout = {
     title: "Un poco sobre mi",
-    aboutme: "Terminando la tecnicatura de Diseño Digital orientacion Apps, la carrera entre otras cosas me introdujo al diseño web, fotografia y marketing, temas que me interesaron mucho y a los que me dedico actualmente.",
+    aboutme: "Técnico en Diseño Digital orientacion Apps. Me apasiona el diseño, la fotografía y el desarrollo frontend, por esta razon decidí formarme en relación a estas orientaciones y considero que cuento con un amplio lenguaje creativo que me permite integrar de forma armónica dichas diciplinas..",
 };
 
 const worktimeline = [{
@@ -274,7 +274,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/Diegomrb",
     linkedin: "https://www.linkedin.com/in/diegomartinriverobarboza/",
-    instagram: "https://www.instagram.com/dieguitodesign/",
+    instagram: "https://www.instagram.com/dbrm_photography/",
     behance: "https://www.behance.net/diegomrb",
 };
 
