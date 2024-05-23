@@ -16,7 +16,7 @@ const introdata = {
 
 const dataabout = {
     title: "Un poco sobre mi",
-    aboutme: "Técnico en Diseño Digital orientacion Apps. Me apasiona el diseño, la fotografía y el desarrollo frontend, por esta razon decidí formarme en relación a estas orientaciones y considero que cuento con un amplio lenguaje creativo que me permite integrar de forma armónica dichas diciplinas..",
+    aboutme: "Técnico en Diseño Digital orientacion Apps. Me apasiona el diseño, la fotografía y el desarrollo frontend, por esta razon decidí formarme en relación a estas orientaciones y considero que cuento con un amplio lenguaje creativo que me permite integrar de forma armónica dichas diciplinas.",
 };
 
 const worktimeline = [{
@@ -26,13 +26,13 @@ const worktimeline = [{
     },
     {
         jobtitle: "Diseñador y fotógrafo",
-        where: "DBRM Design",
-        date: "2019 - 2023",
+        where: "madi. - Creative digital solutions",
+        date: "2019 - Actualidad",
     },
     {
         jobtitle: "Content Moderator",
         where: "Alorica",
-        date: "2022-2023",
+        date: "2022-Actualidad",
     },
 ];
 
@@ -274,7 +274,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/Diegomrb",
     linkedin: "https://www.linkedin.com/in/diegomartinriverobarboza/",
-    instagram: "https://www.instagram.com/dbrm_photography/",
+    instagram: "https://www.instagram.com/madi.creativelab/",
     behance: "https://www.behance.net/diegomrb",
 };
 
