@@ -1,4 +1,4 @@
-const logotext = "Diego";
+const logotext = "Madi";
 const meta = {
     title: "Diego Rivero ",
     description: "Soy Diego Rivero, Diseñador Digital (Apps), Diseñador Web, fotografo, actualmente en Montevideo, Uruguay",
